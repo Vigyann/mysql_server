@@ -1,4 +1,4 @@
-# Enhanced Financial Advisor Tool EFAT
+# Enhanced Financial Advisor Database
 
 ## Project Overview
 
